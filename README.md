@@ -9,7 +9,7 @@ The training consisted of **3 chapters**, and each chapter contained **4 exercis
 
 ## Index
 
-- Chapter 00: Shell Familiarization  
+- [Chapter 00 Shell Familiarization](#Chapter 00: Shell Familiarization):   
 - Chapter 01: Tyto (OSINT)  
 - Chapter 02: Weasel (URL Explotation)
 - 
